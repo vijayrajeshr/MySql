@@ -18,8 +18,8 @@ This repository is structured for a step-by-step learning experience:
 
 I've found the following tutorials helpful:
 
-* **W3Schools:** [mysqltutoiallink]
-* **GeeksforGeeks:** [tutoriallink]
+* **W3Schools:** [[mysqltutoiallink](https://www.w3schools.com/MySQL/default.asp)]
+* **GeeksforGeeks:** [[tutoriallink](https://www.geeksforgeeks.org/sql-tutorial/)]
 
 ## 📧 Contact
 
