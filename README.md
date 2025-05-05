@@ -21,6 +21,4 @@ I've found the following tutorials helpful:
 * **W3Schools:** [[Click here](https://www.w3schools.com/MySQL/default.asp)]
 * **GeeksforGeeks:** [[Click here](https://www.geeksforgeeks.org/sql-tutorial/)]
 
-## 📧 Contact
-
-Feel free to reach out if you have any questions. My email is available upon request.
+Feel free to contact if any ambiguities arise.
